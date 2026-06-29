@@ -1,71 +1,150 @@
-![Tu Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
+![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5)
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">¡Hola! Soy Cristian Jurado</h2>
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About System Secure
 
-### 👨🏻‍💻 &nbsp;Sobre Mí
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
-👨‍💻 &nbsp;Soy estudiante de Ingeniería de Software de sexto semestre en la **Universidad Técnica de Ambato** (UTA).  
-💡 &nbsp;Me apasiona explorar nuevas tecnologías, resolver problemas complejos y desarrollar soluciones de software robustas.  
-🌱 &nbsp;Actualmente enfocado en el desarrollo de aplicaciones distribuidas, la gestión e implantación de software y arquitecturas modernas.  
-💬 &nbsp;Escríbeme si quieres hablar sobre desarrollo de software, bases de datos o colaborar en algún proyecto interesante.  
+<br>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+- 🛠️ **Especialidades:** Desarrollo Backend robusto, Aplicaciones Móviles nativas e híbridas, y maquetación avanzada de plantillas para proyectos de grado o universitarios.
+- 📚 **Garantía Académica:** Estructuras de código limpias, bases de datos optimizadas y documentación lista para sustentar.
+- 🔒 **Seguridad y Rendimiento:** Aplicamos los mejores estándares y arquitecturas modernas en cada entrega.
 
-### 🛠 &nbsp;Tech Stack (Backend & Frontend)
+<br>
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
-![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=ionic&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-
-### 🗃 &nbsp;Bases de Datos
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-
-### 🚀 &nbsp;Deploy, Cloud & DevOps
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)&nbsp;
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)&nbsp;
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-
-### 🧰 &nbsp;Herramientas & Control de Versiones
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
-![Overleaf](https://img.shields.io/badge/Overleaf-%2347A141.svg?style=for-the-badge&logo=overleaf&logoColor=white)&nbsp;
-![Antigravity](https://img.shields.io/badge/Environment-Antigravity-blueviolet?style=for-the-badge)&nbsp;
-
-### ⚙️ &nbsp;GitHub Analytics
-
+## 🤝 Contacto Comercial
 <p align="center">
-  <a href="https://github.com/TU_USUARIO_DE_GITHUB">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/TU_USUARIO_DE_GITHUB">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+  <a href="mailto:tu-correo-corporativo@ejemplo.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/sys-secure"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
+## 🛠️ Nuestro Tech Stack & Herramientas
+
+A continuación, se presentan las tecnologías utilizadas en la construcción de nuestros sistemas y plantillas base:
+
+### 🌐 Core Development, Frameworks & Cloud
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_DE_GITHUB&theme=dark&hide_border=true"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL"/> &nbsp;
+  <img src="https://img.icons8.com/office/48/000000/express-js.png" alt="Express" title="Express"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" title="Redis"/>
 </p>
 
-### 🤝🏻 &nbsp;Conéctate Conmigo
-
+### 💻 Lenguajes, Entornos & Bases de Datos
 <p align="center">
-<a href="https://github.com/TU_USUARIO_DE_GITHUB"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-<a href="mailto:tu-correo@correo.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" title="GitHub"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux"/> &nbsp;
+  <img src="https://img.icons8.com/ios/48/000000/markdown.png" alt="Markdown" title="Markdown"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" title="Material UI"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" title="Next.js"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/my-sql.png" alt="MySQL" title="MySQL"/> &nbsp;
+  <img src="https://img.icons8.com/ios-filled/48/000000/notion.png" alt="Notion" title="Notion"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js"/> &nbsp;
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman" title="Postman"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+    width="50px"
+    alt="PostgreSQL">
+    &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-### 🐍 &nbsp;Así se mueven los Commits...
+### 🚀 Frontend Avanzado & DevOps
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React"/> &nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"
+    width="50px"
+    alt="Angular">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img>
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind" title="Tailwind"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/> &nbsp;
+</p>
+<br> 
 
-<div align="center">
-  <a href="https://github.com/TU_USUARIO_DE_GITHUB/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" /></a>
-</div>
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
+    &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
+    &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
+    &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+</p>
+
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
+</p>
+
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
+  &emsp;
+    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+  &emsp;
+    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
+</p>
+
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
+</p>
+
+<br> 
+
